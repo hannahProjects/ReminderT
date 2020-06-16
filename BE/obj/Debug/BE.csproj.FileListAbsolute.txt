@@ -1,0 +1,21 @@
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\bin\Debug\BE.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\bin\Debug\BE.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\bin\Debug\BE.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\bin\Debug\BE.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\BE\obj\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\obj\Debug\BE.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\obj\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\BE.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\BE.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\EntityFramework.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\EntityFramework.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\BE\bin\Debug\EntityFramework.SqlServer.xml

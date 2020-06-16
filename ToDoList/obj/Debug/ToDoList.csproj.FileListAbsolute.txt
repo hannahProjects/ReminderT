@@ -1,0 +1,169 @@
+Z:\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+Z:\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+Z:\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.g.cs
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+Z:\מערכות חלונות\ToDoList\ToDoList\bin\Debug\Tasks.xml
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+Z:\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.baml
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\Tasks.xml
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.baml
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.g.cs
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+G:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\Tasks.xml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.baml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.g.cs
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\Tasks.xml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.baml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\App.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\calendar.g.cs
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ToDoList\obj\Debug\calendar.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\Tasks.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\App.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\calendar.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\App.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\calendar.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\map.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\map.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\addTask.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\SearchCity.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\addTask.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\SearchCity.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\Manage.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\TaskUserControl.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\Manage.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\TaskUserControl.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\Adddd.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרוקיט אביטל\ToDoList\ToDoList\obj\Debug\Adddd.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\AddTaskDialog.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\App.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\Adddd.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\addTask.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\AddTaskDialog.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\calendar.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\Manage.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\SearchCity.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\TaskUserControl.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\App.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList_Content.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\Tasks.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\Adddd.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\addTask.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\calendar.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\Manage.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\SearchCity.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\TaskUserControl.baml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BE.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BL.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\DAL.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BE.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BL.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\BL.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\DAL.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\DAL.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\WpfAnimatedGif.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\bin\Debug\WpfAnimatedGif.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\TaskDetails.g.cs
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ToDoList\obj\Debug\TaskDetails.baml

@@ -1,0 +1,38 @@
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\BE.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\BE.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.xml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\DB.csprojResolveAssemblyReference.cache
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\BE.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\BE.pdb
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.xml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\DB.csprojResolveAssemblyReference.cache
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+Z:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\BE.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\obj\Debug\DB.csprojResolveAssemblyReference.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\obj\Debug\DB.csproj.CoreCompileInputs.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\ClassLibrary1\bin\Debug\BE.dll.config

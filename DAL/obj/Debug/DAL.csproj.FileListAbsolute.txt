@@ -1,0 +1,31 @@
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\DAL.dll.config
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\DAL.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\DAL.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\BE.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\ClassLibrary1.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\EntityFramework.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\BE.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\ClassLibrary1.pdb
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\EntityFramework.xml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\obj\Debug\DAL.dll
+E:\שנה ג\סמסטר ב\מערכות חלונות\ToDoList\DAL\obj\Debug\DAL.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\obj\Debug\DAL.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\obj\Debug\DAL.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\DAL.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\DAL.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\DAL.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\BE.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\ClassLibrary1.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\EntityFramework.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\BE.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\BE.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\ClassLibrary1.pdb
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\ClassLibrary1.dll.config
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\EntityFramework.xml
+C:\Users\hannah\Documents\לימודים\שנה ג\הנדסת מערכות חלונות\פרויקט שלי\ToDoList\DAL\bin\Debug\EntityFramework.SqlServer.xml

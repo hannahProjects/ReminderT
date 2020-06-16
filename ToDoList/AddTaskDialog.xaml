@@ -1,0 +1,39 @@
+﻿<Window x:Class="ToDoList.AddTaskDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddTask" Height="517.641" Width="502.621">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="382" Margin="68,74,27,32" Width="401">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25" />
+            <RowDefinition Height="208" />
+            <RowDefinition Height="28" />
+            <RowDefinition Height="4" />
+            <RowDefinition Height="84" />
+            <RowDefinition Height="93.6"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75" />
+            <ColumnDefinition Width="75" />
+            <ColumnDefinition Width="125" />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Title:" Margin="0,0,0,0.8" />
+        <TextBox Name="TaskTitle" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="0,0,-0.4,0.8" />
+        <Label Grid.Row="1" Grid.Column="0" Content="Priority:" Margin="0,3.2,0,2.8" />
+        <ComboBox Name="TaskPriority" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" SelectedIndex="0" Margin="0,3.2,-0.4,2.8">
+            <ComboBoxItem Foreground="Green">Low</ComboBoxItem>
+            <ComboBoxItem Foreground="Orange">Medium</ComboBoxItem>
+            <ComboBoxItem Foreground="Red">High</ComboBoxItem>
+        </ComboBox>
+        <Label Grid.Row="2" Grid.Column="0" Content="Description:" Margin="0,1.2,0,4.8" />
+        <TextBox Name="description" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" TextWrapping="Wrap" Margin="0,1.2,-0.4,-32.6" Grid.RowSpan="2" />
+        <Button Name="OkayButton" Grid.Row="4" Grid.Column="0" Content="Okay" Margin="0,51.2,2,-58.6" Click="OkayButton_Click" Grid.RowSpan="2"/>
+        <Button Name="CancelButton" Grid.Row="4" Grid.Column="1" IsCancel="True" Content="Cancel" Margin="10,51.2,0,49.4" Grid.RowSpan="2" />
+
+
+
+
+
+    </Grid>
+
+</Window>
